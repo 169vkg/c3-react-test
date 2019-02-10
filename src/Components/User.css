@@ -1,0 +1,38 @@
+.gridList {
+	float: left;
+  width: 212px;
+  border-radius: 5px;
+	height:112px;
+	background-color: white;
+	position:relative;
+	margin-top:50px;
+	margin-bottom:20px;
+	margin-left: 37px;
+}
+.roundedImage {
+  border-radius: 100%;
+	position:absolute;
+  height:80px;
+  width:80px;
+  left:50%;
+  margin-left:-40px;
+  top: -40px;
+}
+.textAlign {
+	text-align: center;
+	margin-top: 50px;
+	font-size: 18px;
+	color: #e93939;
+}
+.buttonAlign {
+  margin-left: 10px;
+	margin-top: 20px;
+	font-size: 14px;
+	width: 50px;
+	color: #007fa3;
+}
+.buttonAlign:hover {
+	color: #e93939;
+	cursor: pointer;
+	font-weight: bold;
+}
